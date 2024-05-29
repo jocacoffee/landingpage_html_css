@@ -120,7 +120,8 @@ body {
 }
 
 .apresentacao__imagem {
-    width: 50%;
+    width: 75%;
+    padding: 5%;
 }
 
 .rodape {
